@@ -12,3 +12,9 @@
  <br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schlys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br>
+ 
+<h2>Listening To</h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samch20&cover_image=true&theme=natemoo-re&show_offline=false&background_color=030303&interchange=false&bar_color=4eabb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
